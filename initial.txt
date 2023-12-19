@@ -1,0 +1,2 @@
+Đây là file đầu tiên trong repo này!
+Add thêm line cho phần thay đổi ở branch GST-0001.
